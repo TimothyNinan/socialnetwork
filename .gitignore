@@ -1,0 +1,9 @@
+# Ignore Django-related files
+*.pyc
+__pycache__/
+db.sqlite3
+
+# Ignore development-specific files
+*.env
+.env
+.vscode/
